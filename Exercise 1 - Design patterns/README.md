@@ -126,6 +126,6 @@ patterns.
 This exercise provided hands-on experience with some of the most widely
 used design patterns in software engineering.
 By practicing these patterns in Java, learners can develop stronger
-problem-solving skills and produce cleaner, more maintainable code ---
+problem-solving skills and produce cleaner, more maintainable code
 essential traits for becoming proficient software engineers.
 
